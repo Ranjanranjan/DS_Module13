@@ -14,8 +14,8 @@ To write a C function to perform push and pop operation of the stack in the infi
 ```
 /*
 Program to find and display the priority of the operator in the given Postfix expression
-Developed by: SHANMUGAKARTHIK G 
-RegisterNumber: 212223220105 
+Developed by: Ranjan K 
+RegisterNumber: 212222230116
 */
 
 #include<stdio.h>
